@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Generated Output
+NDL_Output/
+.ndl_cache/
+contact_sheets/
+
+# Databases
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
